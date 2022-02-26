@@ -1,0 +1,20 @@
+*{Padding: 0;
+    Margin: 0;
+    Box-sizing: border-box}
+
+body{
+    padding-left: 20vw;
+    padding-right: 20vw;
+}
+
+header{
+    background-color: #2C3E50;
+}
+header div>ul>li>a,
+header div>a>span{
+    color: white;
+}
+
+.bianco{
+    color: white;
+}
