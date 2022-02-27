@@ -7,7 +7,8 @@ body{
     padding-right: 20vw;
 }
 
-.hero{
+.hero,
+.s3{
     background-color: #1ABC9C;
     border: 1px solid black;
 }
@@ -30,3 +31,9 @@ header div>a>span{
     width: 1000px;
 
 } */
+
+.s2,
+.s4{
+    border: 1px solid black;
+}
+
