@@ -33,7 +33,18 @@ header div>a>span{
 } */
 
 .s2,
-.s4{
+.s4,
+footer{
     border: 1px solid black;
 }
 
+
+.colore-f{
+    background-color: #3A546D;
+}
+
+.sotto-footer{
+    background-color: #2C3E50;
+
+
+}
