@@ -7,9 +7,16 @@ body{
     padding-right: 20vw;
 }
 
+.hero{
+    background-color: #1ABC9C;
+    border: 1px solid black;
+}
+
 header{
     background-color: #2C3E50;
+    border: 1px solid black;
 }
+
 header div>ul>li>a,
 header div>a>span{
     color: white;
