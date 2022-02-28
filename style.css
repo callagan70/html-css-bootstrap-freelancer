@@ -10,39 +10,32 @@ body{
 .hero,
 .s3{
     background-color: #1ABC9C;
-    border: 1px solid black;
 }
 
 header{
     background-color: #2C3E50;
+    padding-left: 5vw;
+    padding-right: 5vw;
 }
 
-header div>ul>li>a,
-header div>a>span{
+.bianco{
     color: white;
+}
+
+.linea-stella{
+    padding-left: 5vw;
+    padding: 5vw;
 }
 
 .star-dim{
     font-size: 2em;
 }
 
-.linea{
-    background-color: black;
-}
-
-.s2,
-.s4,
 footer{
-    border: 1px solid black;
-}
-
-
-.colore-f{
     background-color: #3A546D;
 }
 
 .sotto-footer{
     background-color: #2C3E50;
-
-
+    color: white;
 }
