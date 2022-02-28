@@ -23,14 +23,13 @@ header div>a>span{
     color: white;
 }
 
-.bianco{
-    color: white;
+.star-dim{
+    font-size: 2em;
 }
 
-/* .immagine{
-    width: 1000px;
-
-} */
+.linea{
+    background-color: black;
+}
 
 .s2,
 .s4,
